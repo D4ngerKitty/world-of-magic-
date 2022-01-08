@@ -4,13 +4,20 @@
     "dependencies": {
         "device": "*",
         "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
-        "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0"
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.1.0",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.2.4"
     },
     "files": [
         "main.blocks",
         "main.ts",
         "README.md",
-        "assets.json"
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
     "testFiles": [
         "test.ts"
