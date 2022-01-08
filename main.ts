@@ -1105,6 +1105,3 @@ game.onUpdate(function () {
         hitbox2.setPosition(value.x, value.y)
     }
 })
-forever(function () {
-	
-})
